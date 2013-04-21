@@ -1,0 +1,4 @@
+character,hit points,sprite sheet,num frames,frames per second,sprite width,sprite height,max speed,acceleration,decay,start x,start y
+braid,10,braid.png,27,60,130,150,10,1,0,400,300
+braid,10,braid.png,27,60,130,150,10,3,1,400,100
+braid,10,braid.png,27,60,130,150,10,10,1,400,500

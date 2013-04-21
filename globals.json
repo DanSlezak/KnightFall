@@ -1,0 +1,7 @@
+{
+    "screen_size": [ 800, 480 ],
+    "window_title": "KnightFall",
+    "fps": 60,
+    "splash_screen": "splash_screen.jpg",
+    "levels": [ "maze" ]
+}
